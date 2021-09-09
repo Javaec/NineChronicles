@@ -79,7 +79,6 @@ MonoBehaviour:
   animateAlpha: 0
   countText: {fileID: 457178462942036223}
   tooltipArea: {fileID: 3678868936488279901}
-  eventTrigger: {fileID: 4378619734762124948}
 --- !u!114 &4378619734762124948
 MonoBehaviour:
   m_ObjectHideFlags: 0

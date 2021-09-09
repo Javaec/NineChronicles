@@ -528,6 +528,5 @@ MonoBehaviour:
   m_Scale: 100
   m_Scale3D: {x: 2, y: 2, z: 2}
   m_AnimatableProperties: []
-  m_Particles:
-  - {fileID: 0}
+  m_Particles: []
   m_ShrinkByMaterial: 1

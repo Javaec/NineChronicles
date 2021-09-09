@@ -136,7 +136,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/CloseButton
     classID: 114
-    script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -173,7 +173,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/CloseButton
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -321,7 +321,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/TopArea
     classID: 114
-    script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -404,7 +404,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatTextArea
     classID: 114
-    script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -600,7 +600,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea
     classID: 114
-    script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -822,7 +822,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatImageContainer/Cat_R
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -850,7 +850,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatImageContainer/DefeatImage
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -878,7 +878,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatImageContainer/Cat_L
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1146,7 +1146,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/RepeatButton
     classID: 114
-    script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1183,7 +1183,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/RepeatButton
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1331,7 +1331,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/NextButton
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1368,7 +1368,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/NextButton
     classID: 114
-    script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1431,14 +1431,14 @@ AnimationClip:
     - serializedVersion: 2
       path: 2078985945
       attribute: 3305885265
-      script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 2078985945
       attribute: 3305885265
-      script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
@@ -1466,7 +1466,7 @@ AnimationClip:
     - serializedVersion: 2
       path: 2607611002
       attribute: 3305885265
-      script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
@@ -1480,7 +1480,7 @@ AnimationClip:
     - serializedVersion: 2
       path: 3597291000
       attribute: 3305885265
-      script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
@@ -1515,7 +1515,7 @@ AnimationClip:
     - serializedVersion: 2
       path: 4052741358
       attribute: 3305885265
-      script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
@@ -1557,21 +1557,21 @@ AnimationClip:
     - serializedVersion: 2
       path: 1714196474
       attribute: 3305885265
-      script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 3989743470
       attribute: 3305885265
-      script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 2619585177
       attribute: 3305885265
-      script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
@@ -1606,14 +1606,14 @@ AnimationClip:
     - serializedVersion: 2
       path: 8232963
       attribute: 3305885265
-      script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 8232963
       attribute: 3305885265
-      script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
@@ -1634,14 +1634,14 @@ AnimationClip:
     - serializedVersion: 2
       path: 3509514660
       attribute: 3305885265
-      script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
     - serializedVersion: 2
       path: 3509514660
       attribute: 3305885265
-      script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+      script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
       typeID: 114
       customType: 24
       isPPtrCurve: 0
@@ -1828,7 +1828,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/CloseButton
     classID: 114
-    script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -1865,7 +1865,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/CloseButton
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2013,7 +2013,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/TopArea
     classID: 114
-    script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2096,7 +2096,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatTextArea
     classID: 114
-    script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2292,7 +2292,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea
     classID: 114
-    script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2514,7 +2514,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatImageContainer/Cat_R
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2542,7 +2542,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatImageContainer/DefeatImage
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2570,7 +2570,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/DefeatImageContainer/Cat_L
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2838,7 +2838,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/RepeatButton
     classID: 114
-    script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -2875,7 +2875,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/RepeatButton
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3023,7 +3023,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/NextButton
     classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
@@ -3060,7 +3060,7 @@ AnimationClip:
     attribute: m_Enabled
     path: Panel/ButtonsArea/NextButton
     classID: 114
-    script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+    script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:

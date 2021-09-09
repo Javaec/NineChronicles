@@ -639,15 +639,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &7198560295553602420 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4961986547762315984, guid: 7ad634ecd8fec49ba9291bfa3f942e7b,
-    type: 3}
-  m_PrefabInstance: {fileID: 2826826851296989604}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &6653239178440684470 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8894580414857667090, guid: 7ad634ecd8fec49ba9291bfa3f942e7b,
+    type: 3}
+  m_PrefabInstance: {fileID: 2826826851296989604}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7198560295553602420 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4961986547762315984, guid: 7ad634ecd8fec49ba9291bfa3f942e7b,
     type: 3}
   m_PrefabInstance: {fileID: 2826826851296989604}
   m_PrefabAsset: {fileID: 0}

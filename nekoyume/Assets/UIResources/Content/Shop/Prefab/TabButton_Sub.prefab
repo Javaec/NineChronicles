@@ -564,6 +564,9 @@ MonoBehaviour:
   m_IsOn: 0
   offObject: {fileID: 3235577448162353141}
   onObject: {fileID: 6218582078676038530}
+  onClickToggle:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &6218582078676038530
 GameObject:
   m_ObjectHideFlags: 0

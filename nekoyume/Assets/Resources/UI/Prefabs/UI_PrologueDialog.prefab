@@ -413,8 +413,6 @@ MonoBehaviour:
   tutorialActions: 
   txtName: {fileID: 3129280787550516413}
   txtDialog: {fileID: 3054745048649352052}
-  fenrirPosition: {fileID: 0}
-  freyaPosition: {fileID: 0}
 --- !u!1 &5823034626570530982
 GameObject:
   m_ObjectHideFlags: 0

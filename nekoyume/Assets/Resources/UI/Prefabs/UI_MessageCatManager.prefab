@@ -48,5 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e76095aee0cc87418a8011e416c726d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tutorialTargets: []
+  tutorialActions: 
   messageCatPrefab: {fileID: 4514932977838230656, guid: 2fe4cd54962e2c644a66e78ec890e5d5,
     type: 3}

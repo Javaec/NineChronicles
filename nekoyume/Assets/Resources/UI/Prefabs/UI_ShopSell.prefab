@@ -6062,6 +6062,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -6425,6 +6431,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -6686,6 +6698,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -6951,6 +6969,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -7212,6 +7236,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -8047,6 +8077,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -8899,6 +8935,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -9160,6 +9202,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -9425,6 +9473,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -9686,6 +9740,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -10487,6 +10547,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -10748,6 +10814,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -11013,6 +11085,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -11274,6 +11352,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -11539,6 +11623,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -11800,6 +11890,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -12065,6 +12161,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -12326,6 +12428,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode
@@ -12591,6 +12699,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
       propertyPath: m_TextStyleHashCode
       value: -1183493901
       objectReference: {fileID: 0}
@@ -12852,6 +12966,12 @@ PrefabInstance:
       propertyPath: m_textAlignment
       value: 65535
       objectReference: {fileID: 0}
+    - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 3280925822509724825, guid: c680140788317411184023d80221b66a,
         type: 3}
       propertyPath: m_TextStyleHashCode

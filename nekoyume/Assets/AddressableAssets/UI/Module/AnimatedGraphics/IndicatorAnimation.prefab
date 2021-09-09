@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2115258983040180739}
   - component: {fileID: 6437359545588375791}
   m_Layer: 5
-  m_Name: indicatorAnimation
+  m_Name: IndicatorAnimation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

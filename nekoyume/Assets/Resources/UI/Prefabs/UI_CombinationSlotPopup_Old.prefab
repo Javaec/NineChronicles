@@ -224,13 +224,11 @@ MonoBehaviour:
   progressBar: {fileID: 0}
   itemNameText: {fileID: 0}
   requiredBlockIndexText: {fileID: 0}
+  timeText: {fileID: 0}
   hourglassCountText: {fileID: 0}
-  buttonText: {fileID: 0}
-  randomNumberRoulette: {fileID: 0}
   rapidCombinationButton: {fileID: 0}
-  materialPanel: {fileID: 4855058096367097761}
-  optionView: {fileID: 8557785107662624058}
-  touchHandler: {fileID: 422280766456819744}
+  bgButton: {fileID: 0}
+  _informations: []
 --- !u!1 &7932821524275786397
 GameObject:
   m_ObjectHideFlags: 0
@@ -1376,18 +1374,6 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 2157806461393617674}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &4855058096367097761 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6814702798000657579, guid: 13b71d97e21afb447ba5f4f72c627acd,
-    type: 3}
-  m_PrefabInstance: {fileID: 2157806461393617674}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68bda22b303b47c5b721fea9a19d4930, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &6737458328097079099
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1788,6 +1774,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2196026087824409824, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 2196026087824409824, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
+        type: 3}
       propertyPath: m_textInfo.lineCount
       value: 1
       objectReference: {fileID: 0}
@@ -1951,6 +1943,12 @@ PrefabInstance:
       propertyPath: m_textInfo.characterCount
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 4425873323105874239, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 4425873323105874239, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
         type: 3}
       propertyPath: m_textInfo.lineCount
@@ -2253,6 +2251,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5611540908494539615, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
         type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
+    - target: {fileID: 5611540908494539615, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
+        type: 3}
       propertyPath: m_textInfo.lineCount
       value: 1
       objectReference: {fileID: 0}
@@ -2281,6 +2285,12 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6304295659916412573, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 1820101775899876419, guid: e14cdec1ec99d4f2ba55eff738f74f8e,
+        type: 2}
     - target: {fileID: 6304295659916412573, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
         type: 3}
       propertyPath: m_textInfo.lineCount
@@ -2639,15 +2649,3 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 9104413339109328748}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &8557785107662624058 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 619811777268109910, guid: 1497eb4bece6f4810b47014dd3d6f3a0,
-    type: 3}
-  m_PrefabInstance: {fileID: 9104413339109328748}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8554c4372cd4e2281da8007ce460089, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

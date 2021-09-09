@@ -345,6 +345,7 @@ MonoBehaviour:
   fixedFontStyle: 0
   fixedFontSizeOffset: 0
   fixedSpacingOption: 0
+  fixedMarginOption: 0
   fontMaterialType: 15
   l10nKey: 
   fontMaterialIndexInitialized: 0
@@ -527,6 +528,7 @@ MonoBehaviour:
   fixedFontStyle: 0
   fixedFontSizeOffset: 0
   fixedSpacingOption: 0
+  fixedMarginOption: 0
   fontMaterialType: 13
   l10nKey: 
   fontMaterialIndexInitialized: 0

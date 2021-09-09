@@ -1040,6 +1040,7 @@ MonoBehaviour:
   selectedObject: {fileID: 4423364714699765298}
   lockObject: {fileID: 6706624862869275031}
   lockVFXObject: {fileID: 4187752526587129867}
+  lockOpenVFXObject: {fileID: 0}
   indicatorObject: {fileID: 4301618597938750152}
   unlockConditionText: {fileID: 2566518020154693237}
   button: {fileID: 2408656741481977993}

@@ -58,10 +58,12 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bc704721c9885b840aa26960be12eedc, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -69,6 +71,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -81,6 +84,7 @@ MeshRenderer:
   m_SortingLayerID: -385277771
   m_SortingLayer: 3
   m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!114 &2676587346374494515
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93,7 +97,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 844fec2f4c6f97340bfcf82346686cb8, type: 2}
+  skeletonDataAsset: {fileID: 0}
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
@@ -162,34 +166,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statesAndAnimations:
   - stateName: Appear
-    animation: {fileID: 11400000, guid: 30090f96904f82446a606be0d283b84e, type: 2}
+    animation: {fileID: 0}
   - stateName: Standing
-    animation: {fileID: 11400000, guid: 30090f96904f82446a606be0d283b84e, type: 2}
+    animation: {fileID: 0}
   - stateName: StandingToIdle
-    animation: {fileID: 11400000, guid: 30090f96904f82446a606be0d283b84e, type: 2}
+    animation: {fileID: 0}
   - stateName: Idle
-    animation: {fileID: 11400000, guid: 30090f96904f82446a606be0d283b84e, type: 2}
+    animation: {fileID: 0}
   - stateName: Touch
-    animation: {fileID: 11400000, guid: 2f8823924e3a5ab478da29df0d65a344, type: 2}
+    animation: {fileID: 0}
   - stateName: Run
-    animation: {fileID: 11400000, guid: 4248869dbf24f474eaac852b48a415cf, type: 2}
+    animation: {fileID: 0}
   - stateName: Attack
-    animation: {fileID: 11400000, guid: 814aa414343afe74dbf55d4422ea3ef6, type: 2}
+    animation: {fileID: 0}
   - stateName: Casting
-    animation: {fileID: 11400000, guid: e54dd385a546e3c4c94938b7200f8251, type: 2}
+    animation: {fileID: 0}
   - stateName: CastingAttack
-    animation: {fileID: 11400000, guid: 814aa414343afe74dbf55d4422ea3ef6, type: 2}
+    animation: {fileID: 0}
   - stateName: CriticalAttack
-    animation: {fileID: 11400000, guid: ae816a3dab3980d4bab6150282b87e24, type: 2}
+    animation: {fileID: 0}
   - stateName: Hit
-    animation: {fileID: 11400000, guid: 1d770df77d69b9241977af0900d84349, type: 2}
+    animation: {fileID: 0}
   - stateName: Die
-    animation: {fileID: 11400000, guid: 2a68a099aa7c7434aae97b0ac4925c81, type: 2}
+    animation: {fileID: 0}
   - stateName: Win
-    animation: {fileID: 11400000, guid: 2afc6169110ca1442a66f33b8568ea4e, type: 2}
+    animation: {fileID: 0}
   - stateName: Disappear
-    animation: {fileID: 11400000, guid: 30090f96904f82446a606be0d283b84e, type: 2}
+    animation: {fileID: 0}
   - stateName: Greeting
-    animation: {fileID: 11400000, guid: 30090f96904f82446a606be0d283b84e, type: 2}
+    animation: {fileID: 0}
   - stateName: Emotion
-    animation: {fileID: 11400000, guid: 30090f96904f82446a606be0d283b84e, type: 2}
+    animation: {fileID: 0}

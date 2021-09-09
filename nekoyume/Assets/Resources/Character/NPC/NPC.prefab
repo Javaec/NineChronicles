@@ -82,7 +82,7 @@ GameObject:
   - component: {fileID: 689546902502722800}
   - component: {fileID: 5820521211838624888}
   m_Layer: 8
-  m_Name: Npc
+  m_Name: NPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -126,4 +126,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8abfd97770384dd384d64b9d256d1d83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  touchHandler: {fileID: 573889450909635975}
