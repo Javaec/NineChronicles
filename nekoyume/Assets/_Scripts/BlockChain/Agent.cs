@@ -61,7 +61,6 @@ namespace Nekoyume.BlockChain
         public Subject<long> BlockIndexSubject { get; } = new Subject<long>();
         public Subject<BlockHash> BlockTipHashSubject { get; } = new Subject<BlockHash>();
 
-        private static IEnumerator _miner;
         private static IEnumerator _txProcessor;
         private static IEnumerator _swarmRunner;
         private static IEnumerator _autoPlayer;
@@ -443,7 +442,7 @@ namespace Nekoyume.BlockChain
                 ActionUnrenderHandler.Instance.Start(ActionRenderer);
 
                 // 그리고 마이닝을 시작한다.
-                StartNullableCoroutine(_miner);
+
                 StartCoroutine(CoCheckBlockTip());
 
                 StartNullableCoroutine(_autoPlayer);
@@ -451,7 +450,7 @@ namespace Nekoyume.BlockChain
                 LoadQueuedActions();
                 TipChanged += (___, index) => { BlockIndexSubject.OnNext(index); };
             };
-            _miner = options.NoMiner ? null : CoMiner();
+
             _autoPlayer = options.AutoPlay ? CoAutoPlayer() : null;
 
             if (development)
@@ -892,19 +891,7 @@ namespace Nekoyume.BlockChain
             }
         }
 
-        private IEnumerator CoMiner()
-        {
-            var miner = new Miner(blocks, _swarm, PrivateKey, false);
-            var sleepInterval = new WaitForSeconds(15);
-            while (true)
-            {
-                var task = Task.Run(async() => await miner.MineBlockAsync(100, _cancellationTokenSource.Token));
-                yield return new WaitUntil(() => task.IsCompleted);
-#if UNITY_EDITOR
-                yield return sleepInterval;
-#endif
-            }
-        }
+
 
         private Transaction<PolymorphicAction<ActionBase>> MakeTransaction(
             IEnumerable<PolymorphicAction<ActionBase>> actions)
