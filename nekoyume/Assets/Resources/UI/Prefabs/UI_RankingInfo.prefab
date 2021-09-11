@@ -1317,6 +1317,7 @@ MonoBehaviour:
   winCount: {fileID: 2942686448877497171}
   loseCount: {fileID: 249523086183799962}
   remainTime: {fileID: 1312322150612621745}
+  remainTitle: {fileID: 0}
   remainTimeSlider: {fileID: 6831248511715677421}
 --- !u!1 &8523371340246433772
 GameObject:

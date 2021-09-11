@@ -47,7 +47,7 @@ SpriteAtlas:
     - {fileID: 102900000, guid: f4ec4f8b49db5487fae145d395ec1611, type: 3}
     - {fileID: 102900000, guid: 85f7dc4e2285f4e8eaa1d5143ed311b2, type: 3}
     - {fileID: 102900000, guid: 77aad0043bc7d4ee3a9fda3a23e966a8, type: 3}
-    totalSpriteSurfaceArea: 566608
+    totalSpriteSurfaceArea: 616622
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -134,6 +134,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 093443892e6924920b499f4237e90c6f, type: 3}
   - {fileID: 21300000, guid: cb7d04a9e008f47fead8086913791eba, type: 3}
   - {fileID: 21300000, guid: 8e26f1c9f9ab349b3ad8eecdb01c4033, type: 3}
+  - {fileID: 21300000, guid: 32a851d99b83242ba816c0ffc7bbf350, type: 3}
   - {fileID: 21300000, guid: 8b6e1fd9bd10048279d3f98091872831, type: 3}
   - {fileID: 21300000, guid: 801939e9c8bca4fd480e1d967b397c57, type: 3}
   - {fileID: 21300000, guid: a94d2be9dc0ea43feb0f058c8287713c, type: 3}
@@ -178,6 +179,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: bb56b1dd931de4f6fbaae82298e417e9, type: 3}
   - {fileID: 21300000, guid: 452723ed3d7a34919b996c897f3476b0, type: 3}
   - {fileID: 21300000, guid: 3c39dfed8a782494f9def5a4cdfe99b4, type: 3}
+  - {fileID: 21300000, guid: 3a0ea20e8e0254404a27b6c827aab686, type: 3}
   - {fileID: 21300000, guid: 543a872e0e3b842578d7e9f53ff3c187, type: 3}
   - {fileID: 21300000, guid: b741d13ee7bb44ad185d1d90c24c35c2, type: 3}
   - {fileID: 21300000, guid: 347ef04e87531403aa89cf64ecc9cd75, type: 3}
@@ -281,6 +283,7 @@ SpriteAtlas:
   - icon_Reregister
   - UI_SpeechBox_00
   - UI_icon_option_skill
+  - UI_Popup_bg_08
   - UI_popup_title_bg
   - UI_Gradiant_bg_01
   - item_bg_Plus
@@ -325,6 +328,7 @@ SpriteAtlas:
   - Shop_bg_10
   - UI_icon_check
   - UI_icon_login_lock
+  - UI_Popup_bg_09
   - Common_Btn_Normal
   - UI_scroll_bg
   - UI_icon_optionbg
